@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&family=Roboto+Condensed&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border-radius: 9px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: lightcoral;
+    background-color: aqua;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    margin: 0PX;
+    padding: 10px 38px;
+    border: 2px solid black;
+    border-radius: 5px;
+}

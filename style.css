@@ -1,0 +1,28 @@
+.text-center {
+    text-align: center;
+}
+
+/* .bg-red { */
+/* background-color: paleturquoise; */
+.container {
+    background-color: antiquewhite;
+    width: fit-content;
+    border-radius: 5px solid green;
+    border: 10px solid lightcoral;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.align-items {
+    align-items: center;
+}
